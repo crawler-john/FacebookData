@@ -1,0 +1,1001 @@
+Harvard University;Harvard University
+University of Oxford;University of Oxford
+Columbia University;Columbia University in the City of New York
+Yale University;Yale University
+University of Cambridge;University of Cambridge
+Stanford University;Stanford University
+University of California, Berkeley;UC Berkeley
+University of Michigan;University of Michigan
+Massachusetts Institute of Technology;Massachusetts Institute of Technology (MIT)
+Princeton University;Princeton University
+University of California, Los Angeles;UCLA
+New York University;New York University
+University of Chicago;The University of Chicago
+Cornell University;Cornell University
+University of Pennsylvania;University of Pennsylvania
+University of Southern California;University of Southern California
+University of Texas at Austin;The University of Texas at Austin
+University of Toronto;University of Toronto
+University of Wisconsin–Madison;University of Wisconsin-Madison
+University of Illinois at Urbana–Champaign;University of Illinois at Urbana-Champaign
+University of Edinburgh;The University of Edinburgh
+University of Minnesota;University of Minnesota
+United States Military Academy;United States Military Academy
+Northwestern University;Northwestern University
+University of Washington;University of Washington
+Ohio State University;The Ohio State University
+University of Florida;University of Florida
+University of Virginia;University of Virginia
+Brown University;Brown University
+Duke University;Duke University
+Johns Hopkins University;Johns Hopkins University
+University of Maryland, College Park;University of Maryland, College Park
+Rutgers University;Rutgers University
+University College London;UCL
+McGill University;McGill University
+Pennsylvania State University;Penn State
+University of North Carolina at Chapel Hill;The University of North Carolina at Chapel Hill
+University of Notre Dame;University of Notre Dame
+London School of Economics;The London School of Economics and Political Science - LSE
+Boston University;Boston University
+Georgetown University;Georgetown University
+Dartmouth College;Dartmouth
+United States Naval Academy;United States Naval Academysss
+Michigan State University;Michigan State University
+Trinity College, Dublin;Trinity College Dublin
+University of Sydney;University of Sydney
+Syracuse University;Syracuse University
+University of Iowa;University of Northern Iowa
+University of Pittsburgh;University of Pittsburgh
+Brigham Young University;BYU (Brigham Young University)
+University of Georgia;University of Georgia
+University of Glasgow;University of Glasgow
+University of Missouri;University of Central Missouri
+University of Arizona;Arizona State University
+University of Melbourne;The University of Melbourne
+Louisiana State University;LSU
+George Washington University;The George Washington University
+California Institute of Technology;California Institute of Technology - Caltech
+University of British Columbia;The University of British Columbia (UBC)
+Purdue University;Purdue University
+Humboldt University of Berlin;Humboldt-Universität zu Berlin
+Juilliard School;The Juilliard School
+Arizona State University;Arizona State University
+Carnegie Mellon University;Carnegie Mellon University
+King's College London;King's College London
+Texas A&M University;Texas A&M University
+Florida State University;Florida State University
+University of Miami;University of Miami
+University of Manchester;The University of Manchester
+University of Oklahoma;The University of Oklahoma
+University of Tennessee;University of Tennessee, Knoxville
+University of Utah;The University of Utah
+University of Kansas;The University of Kansas
+Hebrew University of Jerusalem;Hebrew University of Jerusalem
+University of Oregon;University of Oregon
+Georgia Institute of Technology;Georgia Tech
+University of Massachusetts Amherst;University of Massachusetts Amherst
+University of Colorado Boulder;University of Colorado Boulder
+University of Oslo;University of Oslo
+Vanderbilt University;Vanderbilt University
+University of Kentucky;University of Kentucky
+University of Nebraska–Lincoln;University of Nebraska-Lincoln
+Boston College;
+University of California, San Diego;UC San Diego
+University of Vienna
+Imperial College London;Imperial College London
+Durham University;Durham University
+Heidelberg University;Heidelberg University
+Washington University in St. Louis;Washington University in St. Louis
+Moscow State University;Московский государственный университет имени М.В.Ломоносова
+Tufts University;Tufts University
+University of Leeds;University of Leeds
+University of Alberta;University of Alberta
+University of Tokyo;University of Tokyo
+Temple University;Temple University
+University of Birmingham;University of Birmingham
+University of St Andrews;University of St Andrews
+University of Göttingen;Georg-August-Universität Göttingen
+College of William & Mary;William & Mary
+University of South Carolina;University of South Carolina
+Tulane University;Tulane University
+University of Bristol;Bristol University
+Auburn University;Auburn University
+Australian National University;The Australian National University
+University of Connecticut;UConn
+Queen's University;Queen's University
+Ludwig Maximilian University of Munich;Ludwig-Maximilians-Universität München
+Rice University;Rice University
+University of Houston;University of Houston
+University of California, Santa Barbara;UC Santa Barbara
+North Carolina State University;NC State University
+University of California, Davis;UC Davis
+Leiden University;Leiden University
+Iowa State University;Iowa State University
+Virginia Tech;Virginia Tech
+University of Cincinnati;University of Cincinnati
+University of Arkansas;University of Arkansas
+York University;York University
+Emory University;Emory Universitys
+Wesleyan University;Wesleyan University
+Southern Methodist University;SMU
+City College of New York;The City College of New York
+Leipzig University;Universität Leipzig
+Amherst College;Amherst College
+West Virginia University;West Virginia University
+Oregon State University;Oregon State University
+University of Western Ontario;The University of Western Ontario
+University College Dublin;University College Dublin
+Indiana University Bloomington;Indiana University
+University of California, Irvine;University of California, Irvine
+University of Aberdeen;University of Aberdeen
+Brandeis University;Brandeis University
+University at Buffalo, The State University of New York;University at Buffalo
+University of Delaware;University of Delaware
+University of Rochester;University of Rochester
+Williams College;Williams College
+University of Liverpool;University of Liverpool
+Oberlin College;Oberlin College
+Kansas State University;Kansas State University
+University of New Mexico;The University of New Mexico - UNM
+University of Manitoba;University of Manitoba
+Queen's University Belfast;Queen's University Belfast
+Case Western Reserve University;Case Western Reserve University
+Clemson University;Clemson University
+Tel Aviv University;Tel Aviv University | אוניברסיטת 
+Uppsala University;Uppsala University
+University of Queensland;The University of Queensland
+Queensland University of Technology;Queensland University of Technology (QUT)
+University of Copenhagen;Københavns Universitet
+University of New South Wales;UNSW (The University of New South Wales)
+San Diego State University;San Diego State University
+University of Vermont;University of Vermont
+Washington State University;Washington State University
+United States Air Force Academy;US Air Force Academy (Official)
+Monash University;Monash University
+University of Nottingham;The University of Nottingham
+University of Bonn;
+National Autonomous University of Mexico;
+Texas Tech University;Texas Tech University
+Université de Montréal;Université de Montréal
+Open University;The Open University
+Wake Forest University;Wake Forest University
+Wayne State University;Wayne State University
+University of Sheffield;The University of Sheffield
+Ohio University;Ohio University
+Charles University in Prague;
+Smith College;Smith College
+University of Adelaide;The University of Adelaide
+University of Warwick;University of Warwick
+National University of Singapore;National University of Singapore
+University of Ottawa;University of Ottawa
+Vassar College;Vassar College
+George Mason University;George Mason University
+University of Sussex;University of Sussex
+Laval University;Université Laval
+University of Saskatchewan;University of Saskatchewan
+ETH Zurich;ETH Zürich
+Martin Luther University of Halle-Wittenberg;
+University of Tübingen;University of Tübingen
+McMaster University;McMaster University
+Stony Brook University;Stony Brook University
+University of Auckland;The University of Auckland
+University of South Florida;University of South Florida
+Northeastern University;Northeastern University
+Dalhousie University;Dalhousie University
+Saint Petersburg State University;Saint Petersburg State University
+Peking University;Peking University
+San Jose State University;San Jose State University
+University of Waterloo;University of Waterloo
+Cardiff University;Cardiff University
+Jagiellonian University;Jagiellonian University
+University of California, Santa Cruz;UC Santa Cruz
+University of Southampton;University of Southampton
+Rensselaer Polytechnic Institute;Rensselaer Polytechnic Institute
+Newcastle University;Newcastle University
+Carleton University;Carleton University
+University of Hong Kong;The University of Hong Kong
+Kent State University;Kent State University
+Simon Fraser University;Simon Fraser University
+University of Calgary;University of Calgary
+Sapienza University of Rome;Sapienza Università di Roma
+University of Warsaw;Uniwersytet Warszawski
+University of Wyoming;University of Wyoming
+University of Western Australia;The University of Western Australia
+University of Central Florida;University of Central Florida
+Utah State University;Utah State University
+University of East Anglia;University of East Anglia (UEA)
+Colorado State University;Colorado State University
+Saint Louis University;Saint Louis University
+University of Belgrade;University of Belgrade
+Swarthmore College;Swarthmore College
+University of Cape Town;University of Cape Town
+Wellesley College;Wellesley College
+University of Reading;University of Reading
+University of York;University of York
+University of Exeter;University of Exeter
+Concordia University;Concordia University
+Waseda University;Waseda University
+University of Amsterdam;University of Amsterdam
+VU University Amsterdam;Vrije Universiteit Amsterdam
+Barnard College;Barnard College
+University of Bologna;University of Bologna
+Union College;Union College
+Middlebury College;Middlebury College
+University of New Hampshire;University of New Hampshire
+Lund University;Lund University
+Lehigh University;Lehigh University
+University of Freiburg;University of Freiburg
+Bowdoin College;Bowdoin College
+Utrecht University;Utrecht University
+École Polytechnique;Utrecht University
+University of Montana;University of Montana
+Colgate University;Colgate University
+University of Otago;University of Otago
+University of Jena;University of Jena
+Santa Clara University;Santa Clara University
+Victoria University of Wellington;Victoria University of Wellington
+Virginia Military Institute;Virginia Military Institute
+University of the Witwatersrand;Wits - University of the Witwatersrand
+California State University, Long Beach;California State University, Long Beach
+Free University of Berlin;Freie Universität Berlin
+University of Helsinki;University of Helsinki
+Virginia Commonwealth University;Virginia Commonwealth University
+Drexel University;Drexel University
+University of Illinois at Chicago;University of Illinois at Chicago
+Yeshiva University;Yeshiva University
+Goldsmiths, University of London;Goldsmiths, University of London
+École Normale Supérieure;École normale supérieure
+University of Idaho;University of Idaho
+University of Leicester;University of Leicester
+Cooper Union;The Cooper Union
+University of Victoria;University of Victoria
+Bryn Mawr College;Bryn Mawr College
+Washington and Lee University;Washington and Lee University
+University College Cork;University College Cork
+University of California, San Francisco;University of San Francisco
+California State University, Fresno;Fresno State
+Tsinghua University;Tsinghua University
+University of Zurich;University of Zurich
+University of Tehran;University of Tehran
+Mount Holyoke College;Mount Holyoke College
+University of Marburg;
+Washington & Jefferson College;Washington & Jefferson College
+California State University, Northridge;California State University, Northridge
+Complutense University of Madrid;
+University of Padua;
+University of California, Riverside;University of California, Riverside
+College of the Holy Cross;College of the Holy Cross
+University of Buenos Aires;Universidad de Buenos Aires
+University of Westminster;University of Westminster
+University of Geneva;University of Geneva
+University of Strasbourg;
+University at Albany, SUNY;University at Albany - SUNY
+University of Hamburg;Universität Hamburg
+University of Canterbury;University of Canterbury
+University of Kent;University of Kent
+Macquarie University;Macquarie University
+University of Rhode Island;University of Rhode Island
+Stockholm University;Stockholms universitet
+Kyoto University;Kyoto University
+University of Bath;University of Bath
+University of Zagreb;
+Bard College;Bard College
+Keio University;
+Queen Mary, University of London;Queen Mary University of London
+Lancaster University;Lancaster University
+Goethe University Frankfurt;Goethe-Universität Frankfurt
+Rockefeller University;The Rockefeller University
+California State University, Fullerton;California State University, Fullerton
+University of Richmond;University of Richmond
+University of Hawaii at Manoa;University of Hawaii at Manoa
+Katholieke Universiteit Leuven;KU Leuven
+University of Essex;University of Essex
+National and Kapodistrian University of Athens;National and Kapodistrian University of Athens
+University of Chile;Universidad de Chile
+Cairo University;Cairo University
+Berlin Institute of Technology;
+Birkbeck, University of London;Birkbeck, University of London
+Eötvös Loránd University;
+Bucknell University;BucknellU
+University of Guelph;University of Guelph
+Seoul National University;Seoul National University
+University of Dundee;University of Dundee
+University of Alabama at Birmingham;UAB - The University of Alabama at Birmingham
+Haverford College;Haverford College
+University of Cologne;University of São Paulo
+Bates College;Bates College
+Ghent University;Universiteit Gent
+DePauw University;DePauw University
+Lafayette College;Lafayette College
+Technion – Israel Institute of Technology;
+University of São Paulo;
+California Polytechnic State University;California Polytechnic State University (Cal Poly)
+Pomona College;Pomona College
+Istanbul University;İstanbul Üniversitesi
+Kenyon College;Kenyon College
+Chinese University of Hong Kong;Chinese University of Hong Kong
+La Trobe University;La Trobe University
+Dickinson College;Dickinson College
+University of Kiel;
+Delft University of Technology;
+Royal Holloway, University of London;Royal Holloway, University of London
+Technical University Munich;TU München
+University of Basel;Universität Basel
+University of Ljubljana;University of Ljubljana
+Norwegian University of Science and Technology;
+Bar-Ilan University;
+University of Dublin;
+Ohio Wesleyan University;Ohio Wesleyan University
+University of Würzburg;
+California State University, Sacramento
+University of Tasmania
+University of Coimbra
+University of Surrey
+University of Münster
+Reed College
+University of Erlangen-Nuremberg
+Karlsruhe Institute of Technology
+Davidson College
+Colorado College
+Furman University
+Colby College
+University of Groningen
+Occidental College
+University of Bergen
+Royal Institute of Technology
+California State University, Los Angeles
+Carleton College
+Franklin & Marshall College
+Université catholique de Louvain
+Université libre de Bruxelles
+National Taiwan University
+Weizmann Institute of Science
+Taras Shevchenko National University of Kyiv
+Morehouse College
+Grinnell College
+Bennington College
+University of Haifa
+University of Salamanca
+University of Barcelona
+Lviv University
+University of Pisa
+Transylvania University
+University of Giessen
+Griffith University
+Indian Institute of Science
+Aarhus University
+École Polytechnique Fédérale de Lausanne
+University of Mainz
+Claremont Graduate University
+University of Turin
+Shanghai Jiao Tong University
+University of Technology, Sydney
+London Business School
+University of Alaska Fairbanks
+Willamette University
+Curtin University
+University of Wollongong
+Zhejiang University
+Hobart and William Smith Colleges
+Fisk University
+University of Bern
+University of Graz
+University of Innsbruck
+Sofia University
+University of Lausanne
+Gettysburg College
+Flinders University
+University of Malaya
+St. Lawrence University
+Fudan University
+RWTH Aachen University
+Heriot-Watt University
+Denison University
+Centre College
+University of Gothenburg
+St. Olaf College
+Ben-Gurion University of the Negev
+Massey University
+University of New England (Australia)
+Nanyang Technological University
+State University of New York at Purchase
+University of Liège
+Vienna University of Technology
+Erasmus University Rotterdam
+Yonsei University
+University of Stuttgart
+College of Wooster
+Karolinska Institutet
+Plymouth University
+Lawrence University
+Macalester College
+University of Florence
+Spelman College
+University of Maryland, Baltimore County
+Hampshire College
+Sewanee: The University of the South
+Allegheny College
+Radboud University Nijmegen
+University of Lisbon
+Pontifical Catholic University of Chile
+Connecticut College
+Wabash College
+Baylor College of Medicine
+University of Naples Federico II
+University of Rostock
+University of Pavia
+Aristotle University of Thessaloniki
+London School of Hygiene & Tropical Medicine
+Korea University
+Skidmore College
+Technical University of Denmark
+Dresden University of Technology
+Nanjing University
+University of Milan
+University of Texas at Dallas
+Indiana University – Purdue University Indianapolis
+University of Waikato
+Drew University
+Federal University of Rio de Janeiro
+University of Iceland
+Vrije Universiteit Brussel
+Goucher College
+Hillsdale College
+Claremont McKenna College
+Politecnico di Milano
+Université de Sherbrooke
+Wittenberg University
+Beloit College
+Earlham College
+University of Hanover
+Institute of Education
+Technische Universität Darmstadt
+Hong Kong University of Science and Technology
+University of Maryland, Baltimore
+Lewis & Clark College
+Albion College
+Calvin College
+Saint Anselm College
+Swinburne University of Technology
+University of Greenwich
+College of Saint Benedict and Saint John's University
+Lake Forest College
+Icahn School of Medicine at Mount Sinai
+Osaka University
+Oregon Health & Science University
+United Nations University
+Pierre-and-Marie-Curie University
+Ruhr University Bochum
+Wofford College
+Kalamazoo College
+Centenary College of Louisiana
+Siena College
+Istanbul Technical University
+University of Tromsø
+Agnes Scott College
+Eindhoven University of Technology
+University of Bordeaux
+University of Tsukuba
+Muhlenberg College
+University of Texas Southwestern Medical Center
+Chalmers University of Technology
+James Cook University
+Mines ParisTech
+Illinois Wesleyan University
+University of Toulouse
+City University of Hong Kong
+University of Colorado Denver
+Budapest University of Technology and Economics
+Rhodes College
+Tohoku University
+Hope College
+Washington College
+University of Texas MD Anderson Cancer Center
+Autonomous University of Barcelona
+Renmin University of China
+Gustavus Adolphus College
+University of Antwerp
+Whitman College
+University of Puget Sound
+Università Cattolica del Sacro Cuore
+Scuola Normale Superiore di Pisa
+Southwestern University
+Hong Kong Polytechnic University
+University of Campinas
+Scripps College
+University of Valencia
+University of Kharkiv
+Hokkaido University
+Berea College
+William Jewell College
+King Saud University
+University of Paris-Sud
+Czech Technical University in Prague
+Bielefeld University
+Hollins University
+University of Medicine and Dentistry of New Jersey
+National Technical University of Athens
+Braunschweig University of Technology
+University of Genoa
+Stockholm School of Economics
+Hartwick College
+Polytechnic University of Turin
+Linköping University
+Umeå University
+Harvey Mudd College
+Concordia College (Moorhead, Minnesota)
+Maastricht University
+University of Turku
+Hong Kong Baptist University
+Tokyo Institute of Technology
+Ursinus College
+Whittier College
+Thomas Jefferson University
+University of Twente
+University of KwaZulu-Natal
+KAIST
+University of Konstanz
+Linfield College
+Dillard University
+Sun Yat-sen University
+Millsaps College
+Paris Diderot University
+McDaniel College
+Oglethorpe University
+Emory and Henry College
+Pitzer College
+University of Bremen
+Grove City College
+Beijing Film Academy
+University of Texas Medical Branch
+Nagoya University
+Wageningen University and Research Centre
+Moravian College
+University of Szeged
+University of Siena
+Xavier University of Louisiana
+Kyushu University
+Susquehanna University
+Guilford College
+Moscow Institute of Physics and Technology
+Autonomous University of Madrid
+Kyung Hee University
+Hanover College
+University of Porto
+University of Perugia
+University of Regensburg
+Alma College
+Medical University of South Carolina
+University of Granada
+Austin College
+University of Salzburg
+St. Norbert College
+Goshen College
+University of Valladolid
+Cornell College
+Hanyang University
+National Central University
+University of the Basque Country
+Presbyterian College
+Eckerd College
+University of Duisburg-Essen
+Ouachita Baptist University
+Coe College
+Nebraska Wesleyan University
+Westminster College (Missouri)
+Saint Petersburg State Polytechnical University
+University of North Carolina at Asheville
+University of Düsseldorf
+Tongji University
+Pompeu Fabra University
+Technical University of Lisbon
+Saint Vincent College
+University of Palermo
+Hendrix College
+Warren Wilson College
+East China Normal University
+Aix-Marseille University
+New College of Florida
+Roanoke College
+Wells College
+National Tsing Hua University
+Bauman Moscow State Technical University
+Wuhan University
+American Jewish University
+Beijing Normal University
+Universidade Federal do Rio Grande do Sul
+Viadrina European University
+Illinois College
+Nankai University
+National Chengchi University
+Stonehill College
+University of Ferrara
+Doane College
+Shandong University
+Central Conservatory of Music
+Carthage College
+Albright College
+National Chiao Tung University
+Westmont College
+Hiram College
+University of Texas Health Science Center at Houston
+University of Nice Sophia Antipolis
+Westminster College (Utah)
+Monmouth College
+College of Idaho
+King Abdulaziz University
+Paris Dauphine University
+University of Oulu
+University of Jyväskylä
+University of Science and Technology of China
+University of Massachusetts Medical School
+Sweet Briar College
+St. Mary's College of Maryland
+Wesleyan College
+SUNY Downstate Medical Center
+Université du Québec
+Shanghai University
+Sungkyunkwan University
+University of Texas Health Science Center at San Antonio
+Juniata College
+Sichuan University
+University of Minnesota Morris
+Berry College
+Lycoming College
+Kobe University
+Lingnan University (Hong Kong)
+University of Southern Denmark
+Medical College of Wisconsin
+Randolph College
+Simpson College
+University of Nebraska Medical Center
+Hiroshima University
+Houghton College
+University of Zaragoza
+Maryville College
+Harbin Institute of Technology
+Paris Descartes University
+Colorado Mesa University
+National Cheng Kung University
+Erskine College
+Wartburg College
+Universidade Federal de Minas Gerais
+Massachusetts College of Liberal Arts
+University of Ulm
+Riga Technical University
+China Central Academy of Fine Arts
+Huazhong University of Science and Technology
+King Abdullah University of Science and Technology
+Salem College
+King Fahd University of Petroleum and Minerals
+Polytechnic University of Valencia
+Jilin University
+Semmelweis University
+Bennett College
+Xi'an Jiaotong University
+University of Rome Tor Vergata
+Eastern Mennonite University
+Xiamen University
+Central Academy of Drama
+Southeast University
+Swedish University of Agricultural Sciences
+University of Macau
+Principia College
+Beijing Foreign Studies University
+University of Bayreuth
+Tianjin University
+Soochow University (Suzhou)
+Beijing Institute of Technology
+Shanghai International Studies University
+École normale supérieure de Lyon
+Universidade Estadual Paulista Júlio de Mesquita Filho
+National Research University – Higher School of Economics
+Novosibirsk State University
+Novosibirsk State Technical University
+Beihang University
+Jinan University
+Castleton State College
+Pusan National University
+Virginia Wesleyan College
+Pohang University of Science and Technology
+College of the Atlantic
+Bridgewater College
+Minzu University of China
+National Sun Yat-sen University
+Paul Sabatier University
+Soka University of America
+Ave Maria University
+Peking Union Medical College
+Kyungpook National University
+University of Rennes 1
+Bloomfield College
+Claflin University
+Nanjing Normal University
+Harbin Engineering University
+Osaka City University
+China Europe International Business School
+Dalian University of Technology
+China University of Political Science and Law
+Joseph Fourier University
+Mayo Medical School
+University of National and World Economy
+Beijing Language and Culture University
+Thomas Aquinas College
+South China University of Technology
+Northwestern Polytechnical University
+Nagasaki University
+University of Murcia
+Lyon College
+Beijing Dance Academy
+University of Eastern Finland
+Allen University
+Communication University of China
+Claude Bernard University Lyon 1
+Medical University of Vienna
+Lanzhou University
+Hunan University
+Brevard College
+Nanjing University of Aeronautics and Astronautics
+National Chung Hsing University
+Kanazawa University
+University of International Business and Economics
+China University of Geosciences
+Okayama University
+Chongqing University
+Yunnan University
+National Chung Cheng University
+Central South University
+Capital Normal University
+Tokyo Medical and Dental University
+Niigata University
+China Agricultural University
+Beijing University of Posts and Telecommunications
+Beijing Jiaotong University
+Catholic University of Korea
+Hannover Medical School
+Donghua University
+National University of Defense Technology
+Feng Chia University
+Montpellier 2 University
+Southwest Jiaotong University
+National Taipei University
+China University of Petroleum
+Northeastern University (China)
+Dalian Maritime University
+Zhengzhou University
+Innsbruck Medical University
+Bethany Lutheran College
+Northwest University (China)
+University of Science and Technology Beijing
+Qingdao University
+Burlington College
+Northeast Normal University
+University of Macerata
+Bay Path College
+Zhejiang University of Technology
+University of Electronic Science and Technology of China
+University of Lucerne
+Bryn Athyn College
+Nanjing University of Science and Technology
+Central University of Finance and Economics
+Hohai University
+Inner Mongolia University
+Yanbian University
+Nanchang University
+Saint John's College
+Clearwater Christian College
+Shanghai University of Finance and Economics
+China Foreign Affairs University
+Saint John's University
+Beijing University of Technology
+East China University of Political Science and Law
+University of the Chinese Academy of Sciences
+Beijing Forestry University
+East China University of Science and Technology
+Xinjiang University
+Shanxi University
+National Yang-Ming University
+University of Lorraine
+Saint Mary's College
+Luther College
+South China Normal University
+Fuzhou University
+Wuhan University of Technology
+Heilongjiang University
+University of Tokushima
+Georgetown College
+University of International Relations
+Southwestern University of Finance and Economics
+Guizhou University
+National Kaohsiung Normal University
+Macau University of Science and Technology
+Trinity College
+Ripon College
+Xidian University
+China University of Mining and Technology
+North China Electric Power University
+Fujian Normal University
+Kunming University of Science and Technology
+Beijing University of Chemical Technology
+Shanghai University of Technology
+Shaanxi Normal University
+Hebei University of Technology
+Anhui University
+Tianjin Medical University
+Medical University of Graz
+Bethany College
+The College of Saints John Fisher & Thomas More
+China Pharmaceutical University
+Taiyuan University of Technology
+Tibet University
+Hebei Normal University
+Shandong Normal University
+Cheung Kong Graduate School of Business
+Northeast Forestry University
+National University of Tainan
+Central College
+Fourth Military Medical University
+Yantai University
+Chang Gung University
+National Chi Nan University
+Amridge University
+China Medical University
+Jiangnan University
+Chengdu University of Technology
+Second Military Medical University
+Northeast Agricultural University
+Shandong University of Science and Technology
+Yangzhou University
+Nanjing Medical University
+Nantong University
+National Taiwan Ocean University
+Hamilton College
+Knox College
+St. Michael's College
+Nanjing University of Technology
+Third Military Medical University
+Nanjing Forestry University
+National Yunlin University of Science and Technology
+Wheaton College
+Beijing Information Science & Technology University
+Jiangsu University
+Xuzhou Medical College
+Chongqing University of Posts and Telecommunications
+Harbin University of Commerce
+Qufu Normal University
+Nanjing University of Posts and Telecommunications
+Nanjing University of Finance and Economics
+Shanxi Teachers University
+Augustana College
+Nanjing University of Information Science and Technology
+Daqing Petroleum Institute
+Gordon College
+China Jiliang University
+Nanjing University of the Arts
+National United University
+University of Newcastle
+Northland College
+Seton Hill University
+Deep Springs College
+Wheeling Jesuit University
+Institute for Advanced Study
+St. John's University (New York City)
+Central European University
+Shanghai Normal University
+Piedmont College
+Indian Institute of Technology Bhubaneswar
+Indian Institute of Technology Bombay
+Indian Institute of Technology Delhi
+Indian Institute of Technology Gandhinagar
+Indian Institute of Technology Guwahati
+Indian Institute of Technology Hyderabad
+Indian Institute of Technology Indore
+Indian Institute of Technology, Jodhpur
+Indian Institute of Technology Kanpur
+Indian Institute of Technology Kharagpur
+Indian Institute of Technology Madras
+Indian Institute of Technology Mandi
+Indian Institute of Technology Patna
+Indian Institute of Technology Roorkee
+Indian Institute of Technology Ropar
+Indian Institute of Technology (BHU) Varanasi
+Japan Advanced Institute of Science and Technology
+Worcester Polytechnic Institute
+University of Massachusetts Boston
+University of Massachusetts Lowell
+University of Massachusetts Dartmouth
+Fordham University
+University of Michigan–Dearborn
+California State University, East Bay
+California Institute of the Arts
+University of California, Merced
+Northwestern Polytechnic University
+Babson College
+Clark University
+Florida International University
+Florida Atlantic University
+Florida A&M University
+Florida Institute of Technology
+City Law School
+Eureka College
+Georgia Southwestern State University
+Texas State University–San Marcos
+University of Harderwijk
+Sciences Po
+The New School
+University of Maine
+Montclair State University
+University of Havana
+University of Alabama
+Hofstra University
+The Catholic University of America
+George Fox University
+American Academy of Dramatic Arts
+Visva-Bharati University
+Kwame Nkrumah University of Science and Technology
+Royal College of Music
+Maharaja's College
+University of Calcutta
+Antioch College
+École nationale d'administration
+University of Denver
+Command and Staff College
+Forman Christian College
+Hamilton College (New York)
+Marquette University
+University of Mississippi
+Manhattan College
+London Academy of Music and Dramatic Art
+University of the Punjab
+Illinois State University
+Pakistan Military Academy
+National Defence University, Pakistan
+Pennsylvania Academy of the Fine Arts
+Royal Military Academy Sandhurst
+Fullerton College
+St. Francis Xavier University
+Colegio de San Juan de Letran
+Ohio Central College
+University of Wisconsin–Milwaukee
+Trinity Washington University
+INSEAD
+University of Dhaka
+Graz University of Technology
+Kim Il-sung University
+Dakota Wesleyan University
+Dublin Institute of Technology
+University of Helmstedt
+Howard University
+Tokyo University of Science
+Pantheon-Sorbonne University
+Panthéon-Assas University
+University of Paris III: Sorbonne Nouvelle
+Paris-Sorbonne University
+Paris 8 University
+Paris West University Nanterre La Défense
+Paris 12 Val de Marne University
+Paris 13 University
+Binghamton University
+University of Louisiana at Lafayette
+Simmons College
+University of North Texas
+Missouri University of Science and Technology
+Duquesne University
+Seattle University
+Western Washington University
+Aston University
+University of Buckingham
+University of Strathclyde
+City University London
+Coventry University
+Swansea University
+University of Keele
+University of Stirling
+University of Chester
+University of Portsmouth
+University of Northampton
+University of West London
+University of Central Lancashire
+University of Brighton
+Brunel University
